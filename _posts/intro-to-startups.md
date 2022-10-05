@@ -5,3 +5,6 @@ Useful blog about ESOP
 Cristabel’s startup advice
 
 - [https://coffee-baseball-29f.notion.site/Startup-Guinea-Pig-41f6e1bd3a324a8f9b080c9296d0d569](https://www.notion.so/41f6e1bd3a324a8f9b080c9296d0d569)
+
+Growth hacks
+- https://kb.builtwith.com/lead-generation/eating-our-own-dog-food/  
