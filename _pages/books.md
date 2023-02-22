@@ -14,3 +14,7 @@ Designing Data Intensive Applications, Reliable, Maintainable
 https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit?usp=sharing
 
 https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit#heading=h.n785l4g2dtx0
+
+Adam Green recommends:
+- Deep Work by Cal Newport
+- The Shallows by Nicholas G. Carr

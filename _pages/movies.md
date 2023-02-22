@@ -37,6 +37,10 @@ Ryan Reynolds. Pretty nice, wholesome movie.
 ## Hustle
 Adam Saunders. Decent movie.
 
+## The Man Who Knew Infinity
+Great movie.
+
+
 # Movies I didn't finish
 The Leftovers
 A Discovery of Witches
