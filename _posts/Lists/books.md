@@ -15,5 +15,10 @@ https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/
 
 https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit#heading=h.n785l4g2dtx0
 
+### Personal development
 - Deep Work by Cal Newport
 - The Shallows by Nicholas G. Carr
+
+### Startup
+- Running lean by Ash Maurya
+- The Startup Owner's Manual by Steve Blank and Bob Dorf
