@@ -1,8 +1,15 @@
-# Movie Reviews
-
+---
+title: "Movies"
+categories:
+  - Lists
+---
 Table of Content
 
 Is there a way to allocate a number to eat paragraph and sort them from highest to lowest like the IMDB rating?
+
+## The Whale (2022)
+- It's a good movie for high school students to analyse in their literature class.
+- I personally did not find this a great movie for my enjoyment.
 
 ## Before Sunrise, Before Sunset, and Before Midnight Trilogy (10/10)
 
