@@ -4,4 +4,7 @@ Then learn to structure your posts.
 - https://jekyllrb.com/docs/posts/ 
 
 Filters and tags.
-- https://jekyllrb.com/docs/liquid/ 
+- https://jekyllrb.com/docs/liquid/
+
+How to fix categories:
+- https://github.com/mmistakes/minimal-mistakes/issues/1764#issuecomment-408850465
