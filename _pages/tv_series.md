@@ -1,0 +1,18 @@
+## Amazing Stories
+Season 1, episode 1 (8/10)
+- amazing concept.
+
+## Charmed
+It's an okay tv series. More like something you'd watch in high school while you have quite a bit of time.
+
+
+## Big Shot (Disney TV Series)
+It's alright. I like the father daughter moments.
+
+
+# Chinese TV Series
+You are my glory
+- I think the romance between the main leads is quite good. The tension and chemistry is well portrayed.
+
+Secret in the Lattice / Our Secret
+- Very cute tv series. 
