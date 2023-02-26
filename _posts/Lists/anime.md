@@ -23,3 +23,12 @@
 - Parallel World Pharmacy
 - The Wise Man's Grandchild
 - Rising of the Shield Hero
+
+
+### Noragami
+- Interesting concept.
+- A little funny.
+- A good past-time.
+
+### The Seven Deadly Sins
+- Seems pretty interesting.
