@@ -1,3 +1,6 @@
+
+[Why it's good to do nothing](https://www.shondaland.com/live/body/a30125041/why-doing-nothing-is-actually-one-of-the-best-things-you-can-do/ )
+
 How to manage your stress levels
 
 - knowing which bad habits you have, the amount of time you need to adjust
