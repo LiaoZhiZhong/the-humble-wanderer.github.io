@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: El-Pensador
+title: The Humble Wanderer
 email: learn.think.reflect@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog.
 twitter_username:
-github_username: el-pensador
+github_username: the-humble-wanderer
 minimal_mistakes_skin: default
 search: true
 
@@ -56,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "El-Pensador"
+  name   : "The Humble Wanderer"
   avatar :
   bio    : "My personal blog."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://el-pensador.github.io/"
+      url: "https://the-humble-wanderer.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/El-Pensador"
+      url: "https://github.com/the-humble-wanderer"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/El-Pensador"
+      url: "https://github.com/the-humble-wanderer"
 
 defaults:
   # _posts
