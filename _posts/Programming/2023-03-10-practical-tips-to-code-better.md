@@ -4,6 +4,10 @@ categories:
   - Programming
 ---
 
+- Be intentional about your changes - every line of code that is changed needs to have a purpose.
+- It's okay to update PRs to do what you think is right, even if the original intent of the PR is altered.
+  - Just justify the changes.
+
 ### Print statements - useful when debugging
 Generally you don't want uncontrollable print statements in library code.
 

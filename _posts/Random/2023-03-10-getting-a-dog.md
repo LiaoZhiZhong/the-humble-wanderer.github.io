@@ -1,5 +1,7 @@
 ---
 title: "Getting a dog"
+categories:
+  - Random
 ---
 
 # TLDR:
