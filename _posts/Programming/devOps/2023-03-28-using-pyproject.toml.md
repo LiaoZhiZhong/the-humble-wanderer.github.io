@@ -4,6 +4,9 @@ categories:
   - devOps
 ---
 
+Note: you don't need to use pyproject.toml with poetry. According to PEP251,
+pyproject.toml is for build tools.
+
 Using pyproject.toml to replace setup.py
 - [pip-tools supports pyproject.toml](https://hynek.me/til/pip-tools-and-pyproject-toml/)
 - [Useful instructions](https://stackoverflow.com/questions/62983756/what-is-pyproject-toml-file-for#:~:text=pyproject.toml%20is%20the%20new,run%20python%20%2Dm%20pip%20install%20.)
