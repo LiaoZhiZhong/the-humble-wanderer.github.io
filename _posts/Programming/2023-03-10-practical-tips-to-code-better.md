@@ -4,6 +4,8 @@ categories:
   - Programming
 ---
 
+Be intentional about your changes - every line of code that is changed needs to have a purpose.
+
 ### Print statements - useful when debugging
 Generally you don't want uncontrollable print statements in library code.
 
