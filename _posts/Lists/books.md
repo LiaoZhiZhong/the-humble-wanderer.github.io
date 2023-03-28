@@ -18,6 +18,7 @@ https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/
 ### Personal development
 - Deep Work by Cal Newport
 - The Shallows by Nicholas G. Carr
+- Ikigai
 
 ### Startup
 - Running lean by Ash Maurya
