@@ -1,7 +1,7 @@
 ---
 title: "Software Programming Levels"
 categories:
-  - Programming
+  - Career
 ---
 
 Copied from [here](https://www.quora.com/How-do-you-know-youre-a-mid-level-software-engineer-What-are-the-key-differences-from-junior-and-senior):
