@@ -45,3 +45,9 @@ ROI selected mid-March, 2023, then got my state nomination approved on the
 If you have ongoing technical issues, send an email to 
 [SkillSelect@homeaffairs.gov.au](mailto:SkillSelect@homeaffairs.gov.au) as
 indicated [here](https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/expression-of-interest/skillselect-technical-problems#:~:text=using%20another%20device.-,Help%20desk,-If%20you%20have).
+
+## Notes
+
+You can check [how many EOIs were given for each round](https://api.dynamic.reports.employment.gov.au/anonap/extensions/hSKLS02_SkillSelect_EOI_Data/hSKLS02_SkillSelect_EOI_Data.html).
+
+[Live in Melbourne portal](https://vicgov.force.com/liveinmelbourne/s/login/?ec=302&startURL=%2Fliveinmelbourne%2Fs%2Fselect-visa-nomination).
