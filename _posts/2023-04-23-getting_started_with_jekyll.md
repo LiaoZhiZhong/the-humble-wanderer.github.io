@@ -12,3 +12,8 @@ title: "Getting started with Jekyll"
 
 [Adding emojis](https://github.com/jekyll/jemoji)
 - I can add emojis by using `:<name>:` :smile:!
+
+[To link to an internal post](https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links), use the following syntax:
+{% raw %}
+`[link to internal file]({{ site.baseurl }}{% link _posts/<file_path>.md %})`
+{% endraw %}
