@@ -4,6 +4,8 @@ categories:
   - Real Estate
 ---
 
+[Buying a house vs renting excel sheet](https://docs.google.com/spreadsheets/d/1CvjTO0CIkWeQGFJWSMBYY4FLUnV1szXgc47s7ArfhNc/edit?usp=sharing)
+
 [Can I sell my house to my limited liability company?](https://www.webuyanyhome.com/cash-house-buyers/selling-to-your-limited-company-2/)
 - webuyanyhome.com seems to have a lot of good articles - do have a browse.
 
@@ -26,3 +28,22 @@ Good google search terms:
 [Owner-occupied vs investment loans](https://www.loans.com.au/home-loans/owner-occupied-vs-investment-property)
 
 [Home loans](https://www.commbank.com.au/home-loans.html#compare)
+
+[Buying a house: the upfront costs](https://www.nab.com.au/personal/life-moments/home-property/buy-first-home/costs)
+
+[Fees, guides, and forms](https://www.land.vic.gov.au/land-registration/fees-guides-and-forms)
+
+[This is a really good example of the real costs of my first home](https://mozo.com.au/home-loans/resources/guides/saving-for-a-house-here-are-the-real-costs-of-your-first-home)
+
+[Buying Cost Calculator](https://reiv.com.au/policy-resources/resources/calculators/buying-cost-calculator)
+
+[Costs a buying a house in VIC](https://www.doorsteps.com.au/market-insights/costs-of-buying-a-house-vic)
+
+[Upfront and hidden costs of buying a house in 2023](https://www.realestate.com.au/advice/hidden-costs-buying-home/#VIC)
+
+[Rent vs buy a house](https://www.nab.com.au/personal/life-moments/home-property/buy-first-home/rent-buy#:~:text=By%20choosing%20the%20renting%20life,you'd%20bought%20a%20house.)
+
+[Renting vs Owning a Home: What's the Difference](https://www.investopedia.com/articles/personal-finance/083115/renting-vs-owning-home-pros-and-cons.asp)
+
+[Home Guarantee Scheme expands eligibility for 2023-24](https://www.homeloanexperts.com.au/low-deposit-home-loans/first-home-loan-deposit-scheme/)
+

@@ -32,3 +32,7 @@
 
 ### The Seven Deadly Sins
 - Seems pretty interesting.
+
+### Watch list
+- Nokemono-tachi no Yoru
+    - Heart wretching apparently.
